@@ -90,5 +90,5 @@ python scripts/eval_TSEncoder_orion_icl_classifier_ucr_full.py \
 The script prints per-dataset accuracy and reports the overall average accuracy at the end.
 
 ## Notes
-
+* Pretrained model parameters can be downloaded from the Hugging Face repository: https://huggingface.co/JTF2000/TIC-FM/tree/main.
 * Model weights and hyperparameter JSON files are located in `checkpoints/` by default, and can be overridden via command-line arguments.
