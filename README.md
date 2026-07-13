@@ -1,6 +1,6 @@
-# TIS-FS
+# TIC-FM
 
-This project evaluates a time-series classification model  **TIC-FS**. 
+This project evaluates a time-series classification model  **TIC-FM**. 
 
 ## Repository Structure
 
