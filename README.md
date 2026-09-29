@@ -71,7 +71,9 @@ python scripts/eval_TSEncoder_orion_icl_classifier_ucr_full.py \
   --dataset ECG200 \
   --mode direct
 ```
+## Benchmark Results
 
+TIC-FM is evaluated in the [TSC-FM time series classification foundation model benchmark](https://tsc-fm.dmirlab.com/). See its [model configurations and benchmark results](https://tsc-fm.dmirlab.com/methods/tic-fm), compare matching settings on the [time series classification leaderboard](https://tsc-fm.dmirlab.com/leaderboard), and consult the [Standard and few-shot evaluation protocol](https://tsc-fm.dmirlab.com/evaluation).
 
 
 ## Common Arguments
